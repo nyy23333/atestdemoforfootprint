@@ -1,0 +1,23 @@
+{
+  "name": "footprint-demo",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "dev": "nuxt",
+    "build": "nuxt build",
+    "start": "nuxt start",
+    "generate": "nuxt generate"
+  },
+  "dependencies": {
+    "core-js": "^3.9.1",
+    "element-ui": "^2.15.1",
+    "leaflet": "^1.7.1",
+    "node-sass": "^4.14.1",
+    "nuxt": "^2.15.3",
+    "sass-loader": "^6.0.7",
+    "scss": "^0.2.4",
+    "scss-loader": "0.0.1",
+    "vue2-leaflet": "^2.7.0"
+  },
+  "devDependencies": {}
+}
